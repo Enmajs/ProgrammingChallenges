@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace ProgrammingChallengesCsharp
 {
@@ -24,7 +23,7 @@ namespace ProgrammingChallengesCsharp
                     }
                 }
             }
-            System.Console.WriteLine(String.Join("\n", array));
+            Console.WriteLine(String.Join("\n", array));
 
             Console.ReadLine();
         }
