@@ -13,7 +13,7 @@ namespace ProgrammingChallengesCsharp
 
             for (int j = 0; j <= array.Length - 2; j++)
             {
-                for (int i = 0; i <= array.Length -2; i++)
+                for (int i = 0; i <= array.Length - 2; i++)
                 {
                     if (array[i] > array[i + 1])
                     {
